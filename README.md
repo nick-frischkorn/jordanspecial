@@ -23,7 +23,7 @@ Tool to generate shellcode loaders (exe, dll, or hta) for windows on mac/linux v
 ```
 ┌─(frischfrischs-MBP)-[13:05:23]-[~/windows-payload-builder]
 └─$ python3 jordanspecial.py -h
-usage: main.py [-h] --build  --shellcode  [--etw] [--unhook] [--file] [--hide] [--user] --out
+usage: jordanspecial.py [-h] --build  --shellcode  [--etw] [--unhook] [--file] [--hide] [--user] --out
 
 options:
   -h, --help    show this help message and exit
