@@ -30,7 +30,7 @@ options:
   --build       Choose 'exe', 'dll', or 'hta'
   --shellcode   File path to shellcode
   --etw         Patch the EtwEventWrite API
-  --unhook      Dll name to unhook (S1 only hooks ntdll.dll)
+  --unhook      Dll name to unhook, ex: ntdll.dll
   --file        Check if a file path exists as an execution guardrail
   --hide        Hide the console window then calculate prime numbers for ~20s (exe & hta only)
   --user        Check if the current user is the specified value as an execution guardrail
